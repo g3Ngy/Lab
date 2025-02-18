@@ -1,5 +1,6 @@
 h1 {
     color: #00308F;
+    text-align: center;
 }
 h2 {
     color: blue;
@@ -18,3 +19,9 @@ body {
     border: 10px solid #00BFFF;
     background-color: white;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
