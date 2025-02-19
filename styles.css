@@ -1,3 +1,9 @@
+.site-header {
+    background-color: #007FFF;
+    padding: 20px;
+    text-align: center;
+}
+
 h1 {
     color: #00308F;
     text-align: center;
@@ -12,7 +18,7 @@ body {
     color: #00BFFF;
 }
 .box {
-    height: 200px;
+    height: 300px;
     width: 100px;
     padding: 20px;
     margin: 5px;
